@@ -111,19 +111,19 @@ No humidity >100%
 
 # Latitude vs. Temperature Plot
 
-![png](output_21_0.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_21_0.png?raw=true)
 
 # Latitude vs. Humidity Plot
 
-![png](output_24_0.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_24_0.png?raw=true)
 
 # Latitude vs. Cloudiness Plot
 
-![png](output_27_0.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_27_0.png?raw=true)
 
 # Latitude vs. Wind Speed Plot
 
-![png](output_30_0.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_30_0.png?raw=true)
 
 
 
@@ -131,53 +131,53 @@ No humidity >100%
 #  Northern Hemisphere - Max Temp vs. Latitude Linear Regression
 
 The r-squared is: -0.626692359392303
-![png](output_36_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_36_1.png?raw=true)
 
 
 #  Southern Hemisphere - Max Temp vs. Latitude Linear Regression
 
 The r-squared is: 0.7839579389903588
-![png](output_39_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_39_1.png?raw=true)
 
 
 #  Northern Hemisphere - Humidity (%) vs. Latitude Linear Regression
 
 The r-squared is: 0.010344523856748057
-![png](output_42_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_42_1.png?raw=true)
 
 
 #  Southern Hemisphere - Humidity (%) vs. Latitude Linear Regression
 
 The r-squared is: -0.01119630670214178
-![png](output_45_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_45_1.png?raw=true)
 
 
 
 #  Northern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression
 
 The r-squared is: -0.011519813975742468 
-![png](output_48_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_48_1.png?raw=true)
 
 
 
 #  Southern Hemisphere - Cloudiness (%) vs. Latitude Linear Regression
 
 The r-squared is: -0.05766033609555552 
-![png](output_51_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_51_1.png?raw=true)
 
 
 
 #  Northern Hemisphere - Wind Speed (mph) vs. Latitude Linear Regression
 
 The r-squared is: -0.06462790577943926 
-![png](output_54_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_54_1.png?raw=true)
     
 
 
 #  Southern Hemisphere - Wind Speed (mph) vs. Latitude Linear Regression
 
 The r-squared is: 0.050889201747779444
-![png](output_57_1.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/WeatherPy/output_data/output_57_1.png?raw=true)
 
 
 ## VacationPy
@@ -509,4 +509,4 @@ The r-squared is: 0.050889201747779444
 
 # Humidity & Hotel Heatmap
 
-![png](Final Map with Humidity Heatmap and  Hotels.png)
+![png](https://github.com/Robert-W2019/PythonAPI-Challenge/blob/main/VacationPy/output_data/Final%20Map%20with%20Humidity%20Heatmap%20and%20%20Hotels.png?raw=true)
